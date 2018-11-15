@@ -1,0 +1,26 @@
+{
+  "name": "okiba-barba",
+  "version": "0.0.1",
+  "description": "Integration between okiba component and Barba.js",
+  "keywords": [
+    "okiba",
+    "okibajs",
+    "barbajs",
+    "pjax"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:okiba-gang/okiba-barba.git"
+  },
+  "contributors": [
+    "Vincent De Feo <vincent.defeo@caffeina.com> (http://ghzmdr.github.io/)",
+    "Alberto Parziale <alberto.parziale@caffeina.com> (http://lavolpechevola.com/)"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@okiba/class-utils": "0.0.2",
+    "@okiba/component": "0.0.6",
+    "barba.js": "^1.0.0"
+  }
+}
