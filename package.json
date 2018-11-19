@@ -9,6 +9,7 @@
     "pjax"
   ],
   "main": "index.js",
+  "module": "index.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:okiba-gang/okiba-barba.git"
